@@ -3,9 +3,9 @@ import pickle
 import numpy as np
 
 # Load the trained model
-model_file = "Pickle_RL_Model.pkl"
-with open(model_file, 'rb') as file:
-    model = pickle.load(file)
+# model_file = "Pickle_RL_Model.pkl"
+# with open(model_file, 'rb') as file:
+model = pickle.load(open("Pickle_RL_Model.pkl", 'rb'))
 
 # Function to predict the label
 def predict_label(features):
