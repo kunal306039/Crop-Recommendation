@@ -17,5 +17,5 @@ In the realm of agriculture, where traditional knowledge meets cutting-edge tech
 ## Conclusion:
 The Crop Recommendation System represents the pinnacle of data-driven agriculture. By accounting for soil minerals, humidity, temperature, and rainfall, it empowers farmers to make informed decisions about crop selection. This approach not only boosts productivity but also contributes to more sustainable and resilient farming practices, which are essential for the future of agriculture in an ever-changing world. As technology continues to advance, projects like these demonstrate the transformative power of data in agriculture.
 
-![image](https://github.com/kunal306039/Crop-Recommendation/assets/111682186/9337cd14-6765-44e0-90a4-6e5a2317b52c)
+![image](https://github.com/kunal306039/Crop-Recommendation/assets/111682186/72a62cd2-5a37-44c8-9a66-83cac085f164)
 
